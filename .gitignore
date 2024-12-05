@@ -1,0 +1,3 @@
+# Excluding project folders
+.vscode/
+.pio/
